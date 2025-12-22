@@ -8,4 +8,9 @@ public class App {
        System.out.println("insta");
        System.out.println("init  ; ;;");
     }
+    
+    private void productSearch() {
+
+    	System.out.println("phone");
+	}
 }
