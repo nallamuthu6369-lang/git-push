@@ -7,5 +7,11 @@ public class App {
     public static void main(String[] args) {
        System.out.println("insta");
        System.out.println("init  ; ;;");
+       
     }
+    
+    private void login() {
+   
+    	
+	}
 }
